@@ -1,2 +1,2 @@
 # token
-A Solidity smart contract project for creating and deploying custom ERC-20 tokens on Ethereum.
+A Solidity smart contract project to **create, customize, and deploy** your own ERC-20 tokens on Ethereum.
