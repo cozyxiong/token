@@ -34,6 +34,7 @@ contract TokenScript is Script {
                 10e40
             )
         );
+        vm.stopBroadcast();
 
         console.log("token proxy contract deployed at:", address(token));
     }
